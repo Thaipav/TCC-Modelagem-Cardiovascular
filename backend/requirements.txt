@@ -1,0 +1,10 @@
+#cria e gerencia a API.
+fastapi 
+#executa a API.
+uvicorn[standard] 
+#manipula, altera e exporta as malhas 3D.
+pyvista 
+#roda por tras do pyvista -cg.
+vtk 
+#envia parametros -servidor remoto.
+httpx 

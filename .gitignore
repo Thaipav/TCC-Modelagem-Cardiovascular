@@ -1,0 +1,12 @@
+venv/
+env/
+ENV/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.gltf
+*.glb
+*.obj
+*.stl
